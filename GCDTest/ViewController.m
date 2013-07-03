@@ -43,12 +43,10 @@
     return [data stringByReplacingOccurrencesOfString:@"E" withString:@"e"];
 }
 
-
-
-
-
-
-
+- (void)saes
+{
+    
+}
 
 - (IBAction)doWork:(id)sender
 {
