@@ -43,8 +43,6 @@
     return [data stringByReplacingOccurrencesOfString:@"E" withString:@"e"];
 }
 
-
-
 - (IBAction)doWork:(id)sender
 {
     NSDate *startTime = [NSDate date];
